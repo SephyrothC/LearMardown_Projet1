@@ -15,7 +15,11 @@
 | * or _ | *txt* |
 | ** or __ | **txt** |
 | ~~ | ~~txt~~ |
-| "[]()" | Image |
+| ![] () | Image |
+| [] () | [Link](https://en.seoultech.ac.kr/) |
+| : (Name of Emoji) : | :smiley: |
+
+
 
 
 
