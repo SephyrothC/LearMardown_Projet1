@@ -7,7 +7,7 @@
 | * or _ | *txt* |
 | ** or __ | **txt** |
 | ~~ | ~~txt~~ |
-| [ x ] [ ] | <ul><li>- [x] check</li> <li>- [ ] no check</li></ul> |
+| [ x ] [  ] | <ul><li>- [x] check</li> <li>- [ ] no check</li></ul> |
 | ![] () | Image |
 | [] () | [Link](https://en.seoultech.ac.kr/) |
 | : (Name of Emoji) : | :smiley: |
